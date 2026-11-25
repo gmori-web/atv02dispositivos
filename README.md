@@ -132,4 +132,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-<img width="1910" height="1075" alt="image" src="https://github.com/user-attachments/assets/abbda76f-cfde-4ec8-b41d-c762ae7d6f55" />
